@@ -1,0 +1,14 @@
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\ConsoleApp4.AssemblyInfo.cs
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0-windows\ConsoleApp4.exe
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0-windows\ConsoleApp4.deps.json
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0-windows\ConsoleApp4.runtimeconfig.json
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0-windows\ConsoleApp4.dll
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0-windows\ConsoleApp4.pdb
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\ConsoleApp4.dll
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\refint\ConsoleApp4.dll
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\ConsoleApp4.pdb
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\ConsoleApp4.genruntimeconfig.cache
+C:\Users\nouser\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0-windows\ref\ConsoleApp4.dll
